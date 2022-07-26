@@ -1,0 +1,28 @@
+.Box {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+}
+
+.slide {
+  width: 400px;
+  height: 200px;
+  background-color: blueviolet;
+  text-align: center;
+}
+
+.slide p {
+  color: white;
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+.Btn {
+  font-size: 1rem;
+  padding: 0.5rem;
+  color: white;
+  background-color: blueviolet;
+  border: 1px solid white;
+  border-radius: 5px;
+}
